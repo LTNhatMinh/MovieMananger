@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Movies>
+  <Movie Id="MV1" Name="Iron Man" Description="Description IronMan" Duration="120" StartAirDate="11/05/2025 00:00:00" EndAirDate="11/06/2025 00:00:00" Status="1">
+  </Movie>
+  <Movie Id="MV2" Name="John Wick" Description="Description John Wick" Duration="80" StartAirDate="12/05/2025" EndAirDate="16/03/2026" Status="1">
+  </Movie>
+  <Movie Id="MV3" Name="Squid Game" Description="Description Squid Game" Duration="90" StartAirDate="12/05/2025" EndAirDate="05/02/2026" Status="1">
+  </Movie>
+  <Movie Id="MV4" Name="The Avengers" Description="Description The Avengers" Duration="100" StartAirDate="12/05/2025" EndAirDate="03/04/2026" Status="1">
+  </Movie>
+</Movies>

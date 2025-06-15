@@ -1,0 +1,94 @@
+﻿<Window x:Class="NhatMinh_WPF_BT.Views.User.TicketWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NhatMinh_WPF_BT.Views.User"
+        mc:Ignorable="d"
+        Title="TicketWindow"  Width="400">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="50" />
+        </Grid.RowDefinitions>
+
+        <Grid Name="grTicket">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0"
+                  Margin="7"
+                  VerticalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="130"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock  Text="Total Seat:"/>
+                <TextBlock  Grid.Column="1"
+                           Name="txtTotalSeat"/>
+            </Grid>
+            <Grid Grid.Row="1"
+                  Margin="7"
+                  VerticalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="130"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock  Text="Name:"/>
+                <TextBlock Grid.Column="1"
+                           Name="txtCustomerName"/>
+            </Grid>
+            <Grid Grid.Row="2"
+                  Margin="7"
+                  VerticalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="130"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock  Text="Phone:"/>
+                <TextBlock Grid.Column="1"
+                           Name="txtPhone"/>
+            </Grid>
+            <Grid Grid.Row="3"
+                  Margin="7"
+                  VerticalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="130"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock  Text="Seat(s):"/>
+                <TextBlock Grid.Column="1"
+                           Name="txtSeats"/>
+            </Grid>
+            <Grid Grid.Row="4"
+                  Margin="7"
+                  VerticalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="130"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock  Text="Total Payment:"/>
+                <TextBlock Grid.Column="1"
+                           Name="txtTotalPayment"/>
+            </Grid>
+        </Grid>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center" >
+            <Button Name="btnBuy"
+                    Content="Buy"
+                    Width="80" Height="30"
+                    Click="btnBuy_Click"
+                    />
+            <Button Name="btnCancel"
+                    Content="Cancel"
+                    Width="80" Height="30"
+                    Click="btnCancel_Click"/>
+        </StackPanel>
+    </Grid>
+
+</Window>

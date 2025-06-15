@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <Order Id="1" IdScheduleShowTime="1" CinemaType="Standard" CustomerName="Tran Van A" PhoneNumber="0934116884" Date="10/05/2025 19:55:53" Total="90000">
+    <DetailOrder Age="Adult" SeatNo="12" Price="60000" Discount="0" />
+    <DetailOrder Age="Child" SeatNo="13" Price="60000" Discount="30000" />
+  </Order>
+  <Order Id="2" IdScheduleShowTime="1" CinemaType="Standard" CustomerName="Le Van Teo" PhoneNumber="0350824508" Date="11/05/2025 03:33:33" Total="240000">
+    <DetailOrder Age="Adult" SeatNo="8" Price="60000" Discount="0" />
+    <DetailOrder Age="Adult" SeatNo="9" Price="60000" Discount="0" />
+    <DetailOrder Age="Adult" SeatNo="10" Price="60000" Discount="0" />
+    <DetailOrder Age="Adult" SeatNo="11" Price="60000" Discount="0" />
+  </Order>
+</Orders>

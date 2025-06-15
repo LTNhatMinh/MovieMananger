@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schedules>
+  <Schedule Id="1" IdMovie="MV1" IdCinema="S1" AirDate="08/05/2025" Status="0" />
+  <Schedule Id="2" IdMovie="MV1" IdCinema="S1" AirDate="15/05/2025" Status="0" />
+  <Schedule Id="3" IdMovie="MV2" IdCinema="S2" AirDate="13/05/2025" Status="0" />
+  <Schedule Id="4" IdMovie="MV2" IdCinema="S1" AirDate="15/05/2025" Status="0" />
+  <Schedule Id="5" IdMovie="MV2" IdCinema="S2" AirDate="20/05/2025" Status="1" />
+  <Schedule Id="6" IdMovie="MV1" IdCinema="S1" AirDate="20/05/2025" Status="1" />
+  <Schedule Id="7" IdMovie="MV4" IdCinema="S2" AirDate="06/02/2026" Status="1" />
+  <Schedule Id="8" IdMovie="MV1" IdCinema="S1" AirDate="20/05/2025" Status="1" />
+</Schedules>

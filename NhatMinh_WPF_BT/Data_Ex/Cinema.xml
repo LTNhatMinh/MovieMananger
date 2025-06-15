@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CinemaStore>
+  <Cinema IdCinema="S1" Name="Standard 1" Type="Standard" PriceCenter="60000">
+    <Seat Id="C01A" Name="1A" Status="0" />
+    <Seat Id="C02A" Name="2A" Status="0" />
+    <Seat Id="C03A" Name="3A" Status="0" />
+    <Seat Id="C04A" Name="4A" Status="0" />
+    <Seat Id="C01B" Name="1B" Status="0" />
+    <Seat Id="C02B" Name="2B" Status="0" />
+    <Seat Id="C03B" Name="3B" Status="0" />
+    <Seat Id="C04B" Name="4B" Status="0" />
+    <Seat Id="C01C" Name="1C" Status="0" />
+    <Seat Id="C02C" Name="2C" Status="0" />
+    <Seat Id="C03C" Name="3C" Status="0" />
+    <Seat Id="C04C" Name="4C" Status="0" />
+    <Seat Id="C01D" Name="1D" Status="0" />
+    <Seat Id="C02D" Name="2D" Status="0" />
+    <Seat Id="C03D" Name="3D" Status="0" />
+    <Seat Id="C04D" Name="4D" Status="0" />
+    <Seat Id="C01E" Name="1E" Status="0" />
+    <Seat Id="C02E" Name="2E" Status="0" />
+    <Seat Id="C03E" Name="3E" Status="0" />
+    <Seat Id="C04E" Name="4E" Status="0" />
+  </Cinema>
+  <Cinema IdCinema="S2" Name="Standard 2" Type="Standard" PriceCenter="60000">
+    <Seat Id="C01A" Name="1A" Status="0" />
+    <Seat Id="C02A" Name="2A" Status="0" />
+    <Seat Id="C03A" Name="3A" Status="0" />
+    <Seat Id="C04A" Name="4A" Status="0" />
+    <Seat Id="C01B" Name="1B" Status="0" />
+    <Seat Id="C02B" Name="2B" Status="0" />
+    <Seat Id="C03B" Name="3B" Status="0" />
+    <Seat Id="C04B" Name="4B" Status="0" />
+    <Seat Id="C01C" Name="1C" Status="0" />
+    <Seat Id="C02C" Name="2C" Status="0" />
+    <Seat Id="C03C" Name="3C" Status="0" />
+    <Seat Id="C04C" Name="4C" Status="0" />
+    <Seat Id="C01D" Name="1D" Status="0" />
+    <Seat Id="C02D" Name="2D" Status="0" />
+    <Seat Id="C03D" Name="3D" Status="0" />
+    <Seat Id="C04D" Name="4D" Status="0" />
+    <Seat Id="C01E" Name="1E" Status="0" />
+    <Seat Id="C02E" Name="2E" Status="0" />
+    <Seat Id="C03E" Name="3E" Status="0" />
+    <Seat Id="C04E" Name="4E" Status="0" />
+  </Cinema>
+  <Cinema IdCinema="V3" Name="Vip 1" Type="Vip" PriceCenter="100000">
+    <Seat Id="C01A" Name="1A" Status="0" />
+    <Seat Id="C02A" Name="2A" Status="0" />
+    <Seat Id="C03A" Name="3A" Status="0" />
+    <Seat Id="C04A" Name="4A" Status="0" />
+    <Seat Id="C01B" Name="1B" Status="0" />
+    <Seat Id="C02B" Name="2B" Status="0" />
+    <Seat Id="C03B" Name="3B" Status="0" />
+    <Seat Id="C04B" Name="4B" Status="0" />
+    <Seat Id="C01C" Name="1C" Status="0" />
+    <Seat Id="C02C" Name="2C" Status="0" />
+    <Seat Id="C03C" Name="3C" Status="0" />
+    <Seat Id="C04C" Name="4C" Status="0" />
+    <Seat Id="C01D" Name="1D" Status="0" />
+    <Seat Id="C02D" Name="2D" Status="0" />
+    <Seat Id="C03D" Name="3D" Status="0" />
+    <Seat Id="C04D" Name="4D" Status="0" />
+    <Seat Id="C01E" Name="1E" Status="0" />
+    <Seat Id="C02E" Name="2E" Status="0" />
+    <Seat Id="C03E" Name="3E" Status="0" />
+    <Seat Id="C04E" Name="4E" Status="0" />
+  </Cinema>
+  <Cinema IdCinema="V4" Name="Vip 2" Type="Vip" PriceCenter="100000">
+    <Seat Id="C01A" Name="1A" Status="0" />
+    <Seat Id="C02A" Name="2A" Status="0" />
+    <Seat Id="C03A" Name="3A" Status="0" />
+    <Seat Id="C04A" Name="4A" Status="0" />
+    <Seat Id="C01B" Name="1B" Status="0" />
+    <Seat Id="C02B" Name="2B" Status="0" />
+    <Seat Id="C03B" Name="3B" Status="0" />
+    <Seat Id="C04B" Name="4B" Status="0" />
+    <Seat Id="C01C" Name="1C" Status="0" />
+    <Seat Id="C02C" Name="2C" Status="0" />
+    <Seat Id="C03C" Name="3C" Status="0" />
+    <Seat Id="C04C" Name="4C" Status="0" />
+    <Seat Id="C01D" Name="1D" Status="0" />
+    <Seat Id="C02D" Name="2D" Status="0" />
+    <Seat Id="C03D" Name="3D" Status="0" />
+    <Seat Id="C04D" Name="4D" Status="0" />
+    <Seat Id="C01E" Name="1E" Status="0" />
+    <Seat Id="C02E" Name="2E" Status="0" />
+    <Seat Id="C03E" Name="3E" Status="0" />
+    <Seat Id="C04E" Name="4E" Status="0" />
+  </Cinema>
+</CinemaStore>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ScheduleShowTimes>
+  <ScheduleShowTime Id="1" IdSchedule="1" AirDate="08/05/2025 14:30:00" Status="0">
+    <BoughtSeat SeatNo="12" />
+    <BoughtSeat SeatNo="13" />
+    <BoughtSeat SeatNo="8" />
+    <BoughtSeat SeatNo="9" />
+    <BoughtSeat SeatNo="10" />
+    <BoughtSeat SeatNo="11" />
+  </ScheduleShowTime>
+  <ScheduleShowTime Id="2" IdSchedule="2" AirDate="15/05/2025 07:30:00" Status="0">
+  </ScheduleShowTime>
+  <ScheduleShowTime Id="3" IdSchedule="5" AirDate="20/05/2025 10:30:00" Status="1">
+  </ScheduleShowTime>
+  <ScheduleShowTime Id="4" IdSchedule="2" AirDate="15/05/2025 12:50:00" Status="0" />
+  <ScheduleShowTime Id="5" IdSchedule="3" AirDate="13/05/2025 07:00:00" Status="0" />
+  <ScheduleShowTime Id="6" IdSchedule="6" AirDate="20/05/2025 07:00:00" Status="1" />
+  <ScheduleShowTime Id="7" IdSchedule="8" AirDate="20/05/2025 10:00:00" Status="1" />
+  <ScheduleShowTime Id="8" IdSchedule="8" AirDate="20/05/2025 16:00:00" Status="1" />
+</ScheduleShowTimes>
